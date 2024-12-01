@@ -1,6 +1,6 @@
 # Globant-Piscine-Project-1
 
-For try the project:
+For run the project:
 
 -You have to create an App on Unsplash and give it the necessary permisions for: read the user info and give likes.
 -Create an .env file into srcs dir with this struct:
